@@ -14,3 +14,5 @@ function httpGet(url) {
 	var advice = (JSON.parse(httpGet(url)));
 	$('#text').html(advice.slip.advice);
 })
+
+// testing pushing
