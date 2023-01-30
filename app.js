@@ -24,3 +24,5 @@ function httpGet(url) {
 //Hello again
 
 //test
+
+//double test
